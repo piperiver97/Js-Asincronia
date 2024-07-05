@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/piperiver97/Js-Asincronia/issues"
   },
-  "homepage": "https://github.com/piperiver97/Js-Asincronia#readme"
+  "homepage": "https://github.com/piperiver97/Js-Asincronia#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
 }
